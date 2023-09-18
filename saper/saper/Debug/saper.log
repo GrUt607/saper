@@ -1,0 +1,4 @@
+﻿  saper.cpp
+C:\Users\user\Desktop\saper\saper\saper.cpp(11,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\user\Desktop\saper\saper\saper.cpp(11,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  saper.vcxproj -> C:\Users\user\Desktop\saper\Debug\saper.exe
